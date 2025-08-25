@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "stem": "Social smile appears typically occurs at about what age?",
+    "choices": [
+      "4 months",
+      "2 months",
+      "8 months",
+      "1 months"
+    ],
+    "answer_index": 1,
+    "rationale": "Social smile emerges around 6 weeks to 2 months.",
+    "tags": [
+      "recall",
+      "social"
+    ]
+  },
+  {
+    "id": 2,
+    "stem": "Coos typically occurs at about what age?",
+    "choices": [
+      "8 months",
+      "4 months",
+      "1 months",
+      "2 months"
+    ],
+    "answer_index": 3,
+    "rationale": "Cooing around 2 months.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 3,
+    "stem": "Rolls front to back typically occurs at about what age?",
+    "choices": [
+      "4 months",
+      "10 months",
+      "6 months",
+      "2 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Rolls front-to-back around 4 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 4,
+    "stem": "Rolls back to front typically occurs at about what age?",
+    "choices": [
+      "5 months",
+      "7 months",
+      "3 months",
+      "11 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Back-to-front follows front-to-back, ~5–6 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 5,
+    "stem": "Sits with support typically occurs at about what age?",
+    "choices": [
+      "4 months",
+      "6 months",
+      "10 months",
+      "2 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Sits with support around 4–5 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 6,
+    "stem": "Sits without support typically occurs at about what age?",
+    "choices": [
+      "6 months",
+      "1 years",
+      "8 months",
+      "4 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Independent sitting around 6 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 7,
+    "stem": "Pulls to stand typically occurs at about what age?",
+    "choices": [
+      "11 months",
+      "9 months",
+      "7 months",
+      "1.2 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Pull to stand around 9–10 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 8,
+    "stem": "Cruises typically occurs at about what age?",
+    "choices": [
+      "10 months",
+      "1.3 years",
+      "8 months",
+      "1 years"
+    ],
+    "answer_index": 0,
+    "rationale": "Cruising along furniture around 10 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 9,
+    "stem": "Walks with one hand held typically occurs at about what age?",
+    "choices": [
+      "10 months",
+      "1.2 years",
+      "1 years",
+      "1.5 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Around the first birthday many take assisted steps.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 10,
+    "stem": "Walks independently typically occurs at about what age?",
+    "choices": [
+      "1.2 years",
+      "1.6 years",
+      "11 months",
+      "1.1 years"
+    ],
+    "answer_index": 3,
+    "rationale": "Independent walking by 12–15 months common; average ~13 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 11,
+    "stem": "Runs typically occurs at about what age?",
+    "choices": [
+      "1.7 years",
+      "1.5 years",
+      "2 years",
+      "1.3 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Running emerges around 18 months.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 12,
+    "stem": "Kicks a ball typically occurs at about what age?",
+    "choices": [
+      "2.5 years",
+      "2.2 years",
+      "2 years",
+      "1.8 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Kicking a ball at ~2 years.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 13,
+    "stem": "Jumps in place typically occurs at about what age?",
+    "choices": [
+      "2.5 years",
+      "2 years",
+      "1.8 years",
+      "2.2 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Jumps in place around 2 years.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 14,
+    "stem": "Rides a tricycle typically occurs at about what age?",
+    "choices": [
+      "3.2 years",
+      "3.5 years",
+      "3 years",
+      "2.8 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Rides a tricycle around 3 years.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 15,
+    "stem": "Hops on one foot typically occurs at about what age?",
+    "choices": [
+      "3.8 years",
+      "4 years",
+      "4.5 years",
+      "4.2 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Hopping on one foot around 4 years.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 16,
+    "stem": "Skips typically occurs at about what age?",
+    "choices": [
+      "5.5 years",
+      "4.8 years",
+      "5.2 years",
+      "5 years"
+    ],
+    "answer_index": 3,
+    "rationale": "Skipping typically around 5 years.",
+    "tags": [
+      "recall",
+      "gross"
+    ]
+  },
+  {
+    "id": 17,
+    "stem": "Reaches for object typically occurs at about what age?",
+    "choices": [
+      "4 months",
+      "10 months",
+      "6 months",
+      "2 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Voluntary reach by ~4 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 18,
+    "stem": "Raking grasp typically occurs at about what age?",
+    "choices": [
+      "6 months",
+      "1 years",
+      "4 months",
+      "8 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Raking grasp emerges around 6 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 19,
+    "stem": "Inferior pincer grasp typically occurs at about what age?",
+    "choices": [
+      "1.2 years",
+      "11 months",
+      "9 months",
+      "7 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Crude pincer around 9 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 20,
+    "stem": "Pincer (thumb–index) grasp typically occurs at about what age?",
+    "choices": [
+      "8 months",
+      "10 months",
+      "1 years",
+      "1.3 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Neat pincer by 9–10 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 21,
+    "stem": "Transfers object hand-to-hand typically occurs at about what age?",
+    "choices": [
+      "4 months",
+      "8 months",
+      "1 years",
+      "6 months"
+    ],
+    "answer_index": 3,
+    "rationale": "Transfers around 5–6 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 22,
+    "stem": "Scribbles typically occurs at about what age?",
+    "choices": [
+      "1.3 years",
+      "2 years",
+      "1.7 years",
+      "1.5 years"
+    ],
+    "answer_index": 3,
+    "rationale": "Scribbles spontaneously around 15–18 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 23,
+    "stem": "Builds 2–3 cube tower typically occurs at about what age?",
+    "choices": [
+      "1.2 years",
+      "1.8 years",
+      "1.4 years",
+      "1.1 years"
+    ],
+    "answer_index": 0,
+    "rationale": "2–3 cubes by 15 months.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 24,
+    "stem": "Builds 6-cube tower typically occurs at about what age?",
+    "choices": [
+      "2.2 years",
+      "2.5 years",
+      "1.8 years",
+      "2 years"
+    ],
+    "answer_index": 3,
+    "rationale": "6-cube tower by ~2 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 25,
+    "stem": "Copies circle typically occurs at about what age?",
+    "choices": [
+      "3.2 years",
+      "2.8 years",
+      "3 years",
+      "3.5 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Copies a circle around 3 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 26,
+    "stem": "Copies cross typically occurs at about what age?",
+    "choices": [
+      "3.5 years",
+      "4 years",
+      "3.3 years",
+      "3.7 years"
+    ],
+    "answer_index": 0,
+    "rationale": "Copies a cross ~3.5–4 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 27,
+    "stem": "Copies square typically occurs at about what age?",
+    "choices": [
+      "4.5 years",
+      "4.2 years",
+      "4 years",
+      "3.8 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Copies a square ~4–4.5 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 28,
+    "stem": "Copies triangle typically occurs at about what age?",
+    "choices": [
+      "5 years",
+      "5.5 years",
+      "4.8 years",
+      "5.2 years"
+    ],
+    "answer_index": 0,
+    "rationale": "Copies a triangle around 5 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 29,
+    "stem": "Draws person with 3 parts typically occurs at about what age?",
+    "choices": [
+      "4.5 years",
+      "4 years",
+      "3.8 years",
+      "4.2 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Person with 3 parts ~4 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 30,
+    "stem": "Draws person with 6 parts typically occurs at about what age?",
+    "choices": [
+      "4.8 years",
+      "5 years",
+      "5.2 years",
+      "5.5 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Person with ~6 parts ~5 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 31,
+    "stem": "Babbles typically occurs at about what age?",
+    "choices": [
+      "8 months",
+      "4 months",
+      "1 years",
+      "6 months"
+    ],
+    "answer_index": 3,
+    "rationale": "Canonical babbling by ~6 months.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 32,
+    "stem": "Says 'mama/dada' nonspecific typically occurs at about what age?",
+    "choices": [
+      "7 months",
+      "1.2 years",
+      "11 months",
+      "9 months"
+    ],
+    "answer_index": 3,
+    "rationale": "Nonspecific mama/dada ~9 months.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 33,
+    "stem": "First real word typically occurs at about what age?",
+    "choices": [
+      "10 months",
+      "1 years",
+      "1.2 years",
+      "1.5 years"
+    ],
+    "answer_index": 1,
+    "rationale": "First real word around 12 months.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 34,
+    "stem": "Two-word phrases (module avg) typically occurs at about what age?",
+    "choices": [
+      "1.6 years",
+      "2.1 years",
+      "1.4 years",
+      "1.8 years"
+    ],
+    "answer_index": 0,
+    "rationale": "Average in your module ~19 months for 2-word phrases.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 35,
+    "stem": "50+ words typically occurs at about what age?",
+    "choices": [
+      "2 years",
+      "2.2 years",
+      "1.8 years",
+      "2.5 years"
+    ],
+    "answer_index": 0,
+    "rationale": "About 50+ words around 2 years.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 36,
+    "stem": "Stranger anxiety begins typically occurs at about what age?",
+    "choices": [
+      "7 months",
+      "9 months",
+      "1.1 years",
+      "5 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Stranger anxiety ~6–8 months (avg ~7).",
+    "tags": [
+      "recall",
+      "social"
+    ]
+  },
+  {
+    "id": 37,
+    "stem": "Separation anxiety peak typically occurs at about what age?",
+    "choices": [
+      "1 years",
+      "10 months",
+      "1.2 years",
+      "1.5 years"
+    ],
+    "answer_index": 0,
+    "rationale": "Separation anxiety peaks ~9–18 months; 12 is a central value.",
+    "tags": [
+      "recall",
+      "social"
+    ]
+  },
+  {
+    "id": 38,
+    "stem": "Parallel play typically occurs at about what age?",
+    "choices": [
+      "2.3 years",
+      "2.7 years",
+      "2.5 years",
+      "3 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Parallel play ~2–3 years (~30–36 months).",
+    "tags": [
+      "recall",
+      "social"
+    ]
+  },
+  {
+    "id": 39,
+    "stem": "Cooperative play typically occurs at about what age?",
+    "choices": [
+      "4 years",
+      "3.8 years",
+      "4.5 years",
+      "4.2 years"
+    ],
+    "answer_index": 0,
+    "rationale": "Cooperative play ~4 years.",
+    "tags": [
+      "recall",
+      "social"
+    ]
+  },
+  {
+    "id": 40,
+    "stem": "Toilet trained (daytime) typically occurs at about what age?",
+    "choices": [
+      "3.5 years",
+      "3 years",
+      "3.2 years",
+      "2.8 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Daytime continence ~2–3 years; 3 years is typical.",
+    "tags": [
+      "recall",
+      "social"
+    ]
+  },
+  {
+    "id": 41,
+    "stem": "Understands one-step commands without gesture typically occurs at about what age?",
+    "choices": [
+      "1.5 years",
+      "1 years",
+      "10 months",
+      "1.2 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Following one-step commands without gesture by ~12 months.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 42,
+    "stem": "A term newborn weighs 2.8 kg at birth. Expected weight at ~4–5 months is:",
+    "choices": [
+      "3.8 kg",
+      "4.6 kg",
+      "5.6 kg",
+      "7.1 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly doubles by ~4–5 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 43,
+    "stem": "A term newborn weighs 3.0 kg at birth. Expected weight at ~4–5 months is:",
+    "choices": [
+      "4.2 kg",
+      "5.0 kg",
+      "6.0 kg",
+      "7.5 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly doubles by ~4–5 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 44,
+    "stem": "A term newborn weighs 3.2 kg at birth. Expected weight at ~4–5 months is:",
+    "choices": [
+      "4.6 kg",
+      "5.4 kg",
+      "6.4 kg",
+      "7.9 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly doubles by ~4–5 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 45,
+    "stem": "A term newborn weighs 3.4 kg at birth. Expected weight at ~4–5 months is:",
+    "choices": [
+      "5.0 kg",
+      "5.8 kg",
+      "6.8 kg",
+      "8.3 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly doubles by ~4–5 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 46,
+    "stem": "A term newborn weighs 2.8 kg at birth. Expected weight at ~12 months is:",
+    "choices": [
+      "5.4 kg",
+      "6.8 kg",
+      "8.4 kg",
+      "10.4 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly triples by ~12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 47,
+    "stem": "A term newborn weighs 3.0 kg at birth. Expected weight at ~12 months is:",
+    "choices": [
+      "6.0 kg",
+      "7.4 kg",
+      "9.0 kg",
+      "11.0 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly triples by ~12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 48,
+    "stem": "A term newborn weighs 3.2 kg at birth. Expected weight at ~12 months is:",
+    "choices": [
+      "6.6 kg",
+      "8.0 kg",
+      "9.6 kg",
+      "11.6 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly triples by ~12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 49,
+    "stem": "A term newborn weighs 3.4 kg at birth. Expected weight at ~12 months is:",
+    "choices": [
+      "7.2 kg",
+      "8.6 kg",
+      "10.2 kg",
+      "12.2 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly triples by ~12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 50,
+    "stem": "A term newborn weighs 3.6 kg at birth. Expected weight at ~12 months is:",
+    "choices": [
+      "7.8 kg",
+      "9.2 kg",
+      "10.8 kg",
+      "12.8 kg"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth weight roughly triples by ~12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 51,
+    "stem": "A term newborn’s length is 48 cm. Expected length at ~12 months is closest to:",
+    "choices": [
+      "62 cm",
+      "67 cm",
+      "72 cm",
+      "87 cm"
+    ],
+    "answer_index": 2,
+    "rationale": "Length increases by about 50% by 12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 52,
+    "stem": "A term newborn’s length is 50 cm. Expected length at ~12 months is closest to:",
+    "choices": [
+      "65 cm",
+      "70 cm",
+      "75 cm",
+      "90 cm"
+    ],
+    "answer_index": 2,
+    "rationale": "Length increases by about 50% by 12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 53,
+    "stem": "A term newborn’s length is 52 cm. Expected length at ~12 months is closest to:",
+    "choices": [
+      "68 cm",
+      "73 cm",
+      "78 cm",
+      "93 cm"
+    ],
+    "answer_index": 2,
+    "rationale": "Length increases by about 50% by 12 months.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 54,
+    "stem": "A child’s birth length was 48 cm. Expected length at ~4 years is approximately:",
+    "choices": [
+      "76 cm",
+      "86 cm",
+      "96 cm",
+      "116 cm"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth length roughly doubles by ~4 years.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 55,
+    "stem": "A child’s birth length was 50 cm. Expected length at ~4 years is approximately:",
+    "choices": [
+      "80 cm",
+      "90 cm",
+      "100 cm",
+      "120 cm"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth length roughly doubles by ~4 years.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 56,
+    "stem": "A child’s birth length was 52 cm. Expected length at ~4 years is approximately:",
+    "choices": [
+      "84 cm",
+      "94 cm",
+      "104 cm",
+      "124 cm"
+    ],
+    "answer_index": 2,
+    "rationale": "Birth length roughly doubles by ~4 years.",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 57,
+    "stem": "Infant born at 28 weeks’ gestation is now 3 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "0.5 months",
+      "0.5 months",
+      "0.5 months",
+      "0.5 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 58,
+    "stem": "Infant born at 28 weeks’ gestation is now 4 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "0.5 months",
+      "0.5 months",
+      "1 months",
+      "1.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 59,
+    "stem": "Infant born at 28 weeks’ gestation is now 5 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "1 months",
+      "1.5 months",
+      "2 months",
+      "2.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 60,
+    "stem": "Infant born at 28 weeks’ gestation is now 6 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "2 months",
+      "2.5 months",
+      "3 months",
+      "3.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 61,
+    "stem": "Infant born at 28 weeks’ gestation is now 9 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "5 months",
+      "5.5 months",
+      "6 months",
+      "6.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 62,
+    "stem": "Infant born at 28 weeks’ gestation is now 10 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "6 months",
+      "6.5 months",
+      "7 months",
+      "7.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 63,
+    "stem": "Infant born at 28 weeks’ gestation is now 1 years (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "8 months",
+      "8.5 months",
+      "9 months",
+      "9.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 12 weeks (~3.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 64,
+    "stem": "Infant born at 30 weeks’ gestation is now 3 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "0.5 months",
+      "0.5 months",
+      "0.5 months",
+      "1 months"
+    ],
+    "answer_index": 0,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 65,
+    "stem": "Infant born at 30 weeks’ gestation is now 4 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "0.5 months",
+      "1 months",
+      "1.5 months",
+      "2 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 66,
+    "stem": "Infant born at 30 weeks’ gestation is now 5 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "1.5 months",
+      "2 months",
+      "2.5 months",
+      "3 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 67,
+    "stem": "Infant born at 30 weeks’ gestation is now 6 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "2.5 months",
+      "3 months",
+      "3.5 months",
+      "4 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 68,
+    "stem": "Infant born at 30 weeks’ gestation is now 9 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "5.5 months",
+      "6 months",
+      "6.5 months",
+      "7 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 69,
+    "stem": "Infant born at 30 weeks’ gestation is now 10 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "6.5 months",
+      "7 months",
+      "7.5 months",
+      "8 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 70,
+    "stem": "Infant born at 30 weeks’ gestation is now 1 years (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "8.5 months",
+      "9 months",
+      "9.5 months",
+      "10 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 10 weeks (~2.5 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 71,
+    "stem": "Infant born at 32 weeks’ gestation is now 3 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "0.5 months",
+      "0.5 months",
+      "1 months",
+      "1.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 8 weeks (~2.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 72,
+    "stem": "Infant born at 32 weeks’ gestation is now 4 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "1 months",
+      "1.5 months",
+      "2 months",
+      "2.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 8 weeks (~2.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 73,
+    "stem": "Infant born at 32 weeks’ gestation is now 5 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "2 months",
+      "2.5 months",
+      "3 months",
+      "3.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 8 weeks (~2.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 74,
+    "stem": "Infant born at 32 weeks’ gestation is now 6 months (chronological). Corrected developmental age is closest to:",
+    "choices": [
+      "3 months",
+      "3.5 months",
+      "4 months",
+      "4.5 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Corrected age = chronological − (40−GA) weeks ≈ subtract 8 weeks (~2.0 months).",
+    "tags": [
+      "computation",
+      "growth"
+    ]
+  },
+  {
+    "id": 75,
+    "stem": "At 9 months, which is a RED FLAG?",
+    "choices": [
+      "Inability to sit without support",
+      "Stranger anxiety",
+      "Banging objects together",
+      "Transfers objects hand‑to‑hand"
+    ],
+    "answer_index": 0,
+    "rationale": "Inability to sit unsupported at 9 months is concerning.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 76,
+    "stem": "At 12 months, which finding is MOST concerning?",
+    "choices": [
+      "No babbling",
+      "No cruising",
+      "No specific 'mama'/'dada'",
+      "No response to name"
+    ],
+    "answer_index": 3,
+    "rationale": "Not responding to name at 12 months is a red flag for hearing/language concerns.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 77,
+    "stem": "At 15 months, which is MOST concerning?",
+    "choices": [
+      "No single words",
+      "Not stacking 2 cubes",
+      "Not walking independently",
+      "Not scribbling"
+    ],
+    "answer_index": 2,
+    "rationale": "By 15 months many children walk independently; persistent absence warrants evaluation.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 78,
+    "stem": "At 18 months, which is MOST concerning?",
+    "choices": [
+      "No pointing to share interest",
+      "Throws ball overhead",
+      "Walks up steps with hand held",
+      "Scribbles spontaneously"
+    ],
+    "answer_index": 0,
+    "rationale": "Lack of joint attention gestures (pointing) at 18 months is a strong red flag.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 79,
+    "stem": "At 24 months, which is MOST concerning?",
+    "choices": [
+      "No two‑word meaningful phrases",
+      "50% intelligibility",
+      "Jumps in place",
+      "Parallel play"
+    ],
+    "answer_index": 0,
+    "rationale": "Absence of two‑word phrases by 2 years warrants evaluation.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 80,
+    "stem": "At 6 months, which is a RED FLAG?",
+    "choices": [
+      "No social smile",
+      "No cooing",
+      "No rolling",
+      "No pincer grasp"
+    ],
+    "answer_index": 0,
+    "rationale": "No social smile by 2–3 months is concerning; by 6 months this is a definite red flag.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 81,
+    "stem": "At 3 years, which is MOST concerning?",
+    "choices": [
+      "Speech intelligibility ~50%",
+      "Cannot copy a circle",
+      "Not toilet trained at night",
+      "Parallel play"
+    ],
+    "answer_index": 1,
+    "rationale": "By ~3 years, copying a circle is expected; inability may indicate fine motor delay.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 82,
+    "stem": "At 4 years, which is MOST concerning?",
+    "choices": [
+      "Not hopping on one foot",
+      "Not skipping",
+      "Not drawing a square",
+      "Speech intelligibility ~100%"
+    ],
+    "answer_index": 2,
+    "rationale": "By ~4–4.5 years, copying a square is expected.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 83,
+    "stem": "At 5 years, which is MOST concerning?",
+    "choices": [
+      "Cannot copy triangle",
+      "Cannot skip",
+      "Unintelligible to strangers",
+      "Rides a tricycle"
+    ],
+    "answer_index": 2,
+    "rationale": "By ~4 years, speech should be ~100% intelligible; lack is concerning.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 84,
+    "stem": "At 2 months, which is MOST concerning?",
+    "choices": [
+      "No social smile",
+      "No raking grasp",
+      "No cruising",
+      "No two‑word phrases"
+    ],
+    "answer_index": 0,
+    "rationale": "Absence of social smile by ~2 months is a red flag; others occur much later.",
+    "tags": [
+      "recall",
+      "redflag"
+    ]
+  },
+  {
+    "id": 85,
+    "stem": "Moro reflex disappears by:",
+    "choices": [
+      "2 months",
+      "4 months",
+      "6 months",
+      "9 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Moro fades by ~5–6 months.",
+    "tags": [
+      "recall",
+      "reflex"
+    ]
+  },
+  {
+    "id": 86,
+    "stem": "Rooting reflex disappears by:",
+    "choices": [
+      "1 month",
+      "2 months",
+      "4 months",
+      "6 months"
+    ],
+    "answer_index": 1,
+    "rationale": "Rooting typically gone by ~1–2 months.",
+    "tags": [
+      "recall",
+      "reflex"
+    ]
+  },
+  {
+    "id": 87,
+    "stem": "Palmar grasp disappears by:",
+    "choices": [
+      "2 months",
+      "4 months",
+      "6 months",
+      "9 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Palmar grasp fades by ~4–6 months.",
+    "tags": [
+      "recall",
+      "reflex"
+    ]
+  },
+  {
+    "id": 88,
+    "stem": "Plantar grasp disappears by:",
+    "choices": [
+      "6 months",
+      "9 months",
+      "12 months",
+      "18 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Plantar grasp disappears by ~9–12 months.",
+    "tags": [
+      "recall",
+      "reflex"
+    ]
+  },
+  {
+    "id": 89,
+    "stem": "Parachute reflex:",
+    "choices": [
+      "Absent in typical infants",
+      "Appears at ~2 months",
+      "Appears ~7–8 months and persists",
+      "Disappears by 12 months"
+    ],
+    "answer_index": 2,
+    "rationale": "Parachute appears ~7–8 months and persists through life.",
+    "tags": [
+      "recall",
+      "reflex"
+    ]
+  },
+  {
+    "id": 90,
+    "stem": "Asymmetric tonic neck (fencer) disappears by:",
+    "choices": [
+      "2 months",
+      "4 months",
+      "6–7 months",
+      "9–10 months"
+    ],
+    "answer_index": 2,
+    "rationale": "ATNR usually disappears by ~6–7 months.",
+    "tags": [
+      "recall",
+      "reflex"
+    ]
+  },
+  {
+    "id": 91,
+    "stem": "Copies circle at about:",
+    "choices": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Circle ~3 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 92,
+    "stem": "Copies cross at about:",
+    "choices": [
+      "2.5 years",
+      "3.5–4 years",
+      "4.5 years",
+      "5.5 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Cross ~3.5–4 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 93,
+    "stem": "Copies square at about:",
+    "choices": [
+      "3 years",
+      "3.5 years",
+      "4–4.5 years",
+      "5 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Square ~4–4.5 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 94,
+    "stem": "Copies triangle at about:",
+    "choices": [
+      "3 years",
+      "4 years",
+      "5 years",
+      "6 years"
+    ],
+    "answer_index": 2,
+    "rationale": "Triangle ~5 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 95,
+    "stem": "Draws person with ~3 parts at:",
+    "choices": [
+      "3 years",
+      "4 years",
+      "5 years",
+      "6 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Person with ~3 parts ~4 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 96,
+    "stem": "Draws person with ~6 parts at:",
+    "choices": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "answer_index": 1,
+    "rationale": "Person with ~6 parts ~5 years.",
+    "tags": [
+      "recall",
+      "fine"
+    ]
+  },
+  {
+    "id": 97,
+    "stem": "Approximate speech intelligibility at 1 year:",
+    "choices": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer_index": 0,
+    "rationale": "Rule of 1,2,3,4 years ~ 25/50/75/100%.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 98,
+    "stem": "Approximate speech intelligibility at 2 years:",
+    "choices": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer_index": 1,
+    "rationale": "Rule of 1,2,3,4 years ~ 25/50/75/100%.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 99,
+    "stem": "Approximate speech intelligibility at 3 years:",
+    "choices": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer_index": 2,
+    "rationale": "Rule of 1,2,3,4 years ~ 25/50/75/100%.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  },
+  {
+    "id": 100,
+    "stem": "Approximate speech intelligibility at 4 years:",
+    "choices": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer_index": 3,
+    "rationale": "Rule of 1,2,3,4 years ~ 25/50/75/100%.",
+    "tags": [
+      "recall",
+      "language"
+    ]
+  }
+]
